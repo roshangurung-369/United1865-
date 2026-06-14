@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch FarmTimeGame",
+            "request": "launch",
+            "mainClass": "FarmTimeGame",
+            "projectName": "FarmTimeGame",
+            "console": "internalConsole"
+        }
+    ]
+}
